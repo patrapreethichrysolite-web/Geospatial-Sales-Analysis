@@ -20,3 +20,8 @@ Key Insights
 - High-performing states were identified.
 - Top revenue-generating cities were analyzed.
 - Three potential locations were recommended for expansion.
+  
+Recommended Store Locations:
+1. California
+2. Texas
+3. Washington
